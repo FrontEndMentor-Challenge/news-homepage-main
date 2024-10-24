@@ -88,7 +88,7 @@ body {
     border-radius: 8px;
 }
 
-.main-article .main-text-article h2 {
+.main-article .main-text-article h1 {
     font-size: 4rem;
     margin: 20px 4px 20px 0;
     font-family: 'inter', sans-serif;
@@ -246,7 +246,7 @@ body {
         display: grid;
         grid-template-columns: 1fr;
     }
-    .main-article .main-text-article h2 {
+    .main-article .main-text-article h1 {
         font-size: 3rem;
     }
     .main-article .main-text-article {
