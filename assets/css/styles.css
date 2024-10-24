@@ -116,7 +116,7 @@ body {
     border-radius: 8px;
 }
 
-.sidebar h3 {
+.sidebar h2 {
     color: #ffb400;
     font-size: 1.5rem;
     margin-bottom: 20px;
@@ -125,7 +125,7 @@ body {
 .sidebar .news-items {
     margin-bottom: 20px;
 }
-.sidebar .news-items h4 {
+.sidebar .news-items h3 {
     font-size: 1.2rem;
     margin: 0 0 5px;
 }
@@ -157,7 +157,7 @@ body {
     margin-right: 10px;
 }
 
-.footer .footer-item h4 {
+.footer .footer-item h3 {
     font-size: 1rem;
     margin: 10px 0 5px;
 
